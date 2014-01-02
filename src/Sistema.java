@@ -9,7 +9,7 @@ import com.acolita.deberes.semestre1.Matematicas;
 import java.lang.System;
 /**
  *
- * @author Administrador
+ * @author 
  */
 public class Sistema {
     public static void main(String[] args) {
